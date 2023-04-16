@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amathai001&show_icons=true&locale=en" alt="amathai001" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amathai001&" alt="amathai001" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amathai001&" alt="amathai001" /></p>
