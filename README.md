@@ -11,12 +11,13 @@ Hello there! 👋 I'm an IT Engineer embarking on an exciting journey to transit
 #### 📚 Learning Journey:
 - Acquired CompTIA A+ certification 🛡️
 - Acquired CompTIA CCNA certification 🛡️
-- Actively pursuing Certified Ethical Hacker (CEH) certification 🕵️‍♂️
+- Actively pursuing other certifications 🕵️‍♂️
+- Portfolio: [AMathai](https://amathai001.github.io/)
 
 #### 🌱 Let's Grow Together:
 Excited about the intersection of IT and cybersecurity, I'm open to collaborations, learning opportunities, and insights from the vibrant cybersecurity community. Let's secure the future together! 💻🌐 #CybersecurityTransition #InfoSec #TechJourney
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amathai001)
+- LinkedIn: [AMathai](https://www.linkedin.com/in/amathai001)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
