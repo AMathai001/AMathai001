@@ -1,6 +1,6 @@
-### 👨‍💻 IT Engineer Transitioning to Cybersecurity
+### 👨‍💻 Cybersecurity student😊
 
-Hello there! 👋 I'm an IT Engineer embarking on an exciting journey to transition into the realm of cybersecurity. With a solid foundation in IT infrastructure and a passion for securing digital landscapes, I'm sharpening my skills to become a proficient cybersecurity analyst. 💼➡️🔒
+Hello there! 👋 I'm sharpening my skills to become a proficient cybersecurity analyst. 💼➡️🔒
 
 #### 🚀 Focus Areas:
 - 🌐 Network Security: Transitioning from infrastructure management to safeguarding networks
